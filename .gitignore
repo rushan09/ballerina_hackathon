@@ -1,0 +1,4 @@
+/client-application/bower_components/
+/client-application/node_modules/
+/client-application/target/
+/client-application/nbproject/private/
